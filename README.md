@@ -285,4 +285,4 @@ sub-dependencies. A sure way to solve it is to run:
 The default server port `:5042` might be in use by another process. To resolve
 this, you can pick any unused port (e.g., 6000) and run the following:
 
-    echo SERVER_PORT=6000 >> .env
+    echo SERVER_PORT=6000 >> .env.
